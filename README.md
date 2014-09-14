@@ -7,4 +7,4 @@ The web.xml file contains the login details for the required mysql database. edi
 
 Also, you need to setup the mysql database before runninf the web application. there is an sql schema file available on github.
 
-last update: uwe geercken - 2014-09-02
+last update: uwe geercken - 2014-09-14
