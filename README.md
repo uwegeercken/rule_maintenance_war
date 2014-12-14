@@ -5,8 +5,10 @@ Web Archive file containing all required files to run the the Business Rule Main
 
 Compiled with Jave 1.7 and optimized for Apache Tomcat 7.
 
-The web.xml file contains the login details for the required mysql database. Edit the login details and host information according to your needs.
+You will need to setup the MySQL database before running the web application. There is an sql schema file available on Github. Import the schema into your existing MySQL server.
 
-Also, you need to setup the Mysql database before running the web application. there is an sql schema file available on github.
+When the webapp is run initially, a dialog allows to define the configuration details of the database connection and the LDAP settings.
 
-last update: uwe geercken - 2014-11-27
+There is basic LDAP support available: when a user logs in, the userid and password can be checked against the LDAP server.
+
+last update: uwe geercken - 2014-12-14
