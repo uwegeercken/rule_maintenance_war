@@ -3,7 +3,7 @@ rule_maintenance_war
 
 Web Archive file containing all required files to run the the Business Rule Maintenance tool (e.g. using Tomcat)
 
-Compiled with Jave 1.8 and optimized for Apache Tomcat 7.
+Compiled with Jave 1.8 and optimized for Apache Tomcat 8.
 
 You will need to setup the MySQL database before running the web application. There is an sql schema file available on Github. Import the schema into your existing MySQL server.
 
@@ -13,4 +13,4 @@ There is basic LDAP support available: when a user logs in, the userid and passw
 
 A transformation from Pentaho PDI containing Rule Engine steps may be imported. As a consequence the user does not need to type in field names and types - when writing rules or actions - but may select the fields from a dropdown.
 
-last update: uwe geercken - 2015-02-24
+last update: uwe geercken - 2015-03-01
