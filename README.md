@@ -11,6 +11,6 @@ When the webapp is run initially, a dialog allows to define the configuration de
 
 There is basic LDAP support available: when a user logs in, the userid and password can be checked against the LDAP server.
 
-A transformation from Pentaho PDI containing Rule Engine steps may be imported. As a consequence the user does not need to type in field names and types - when writing rules or actions - but may select the fields from a dropdown.
+A transformation from Pentaho PDI containing Rule Engine steps may be imported. As a consequence the user does not need to type in field names and types - when writing rules or actions - but is able to select the fields from a dropdown.
 
-last update: uwe geercken - 2016-03-26
+last update: uwe geercken - 2016-04-16
