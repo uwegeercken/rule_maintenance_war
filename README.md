@@ -13,4 +13,4 @@ There is basic LDAP support available: when a user logs in, the userid and passw
 
 A transformation from Pentaho PDI containing Rule Engine steps may be imported. As a consequence the user does not need to type in field names and types - when writing rules or actions - but is able to select the fields from a dropdown.
 
-last update: uwe geercken - 2016-04-23
+last update: uwe geercken - 2016-04-25
