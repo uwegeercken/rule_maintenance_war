@@ -14,4 +14,4 @@ There is basic LDAP support available: when a user logs in, the userid and passw
 Reference fields for a project may be defined. As a consequence the user does not need to type in field names and types - when writing rules or actions - but is able to select the fields from a dropdown. Reference fields are also
 used as a help and documentation for the user when writing rules and actions and support the testing of the rulegroups.
 
-last update: uwe geercken - 2016-10-20
+last update: uwe geercken - 2017-01-20
