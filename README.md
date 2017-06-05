@@ -34,4 +34,4 @@ used as a help and documentation for the user when writing rules and actions and
  specific language governing permissions and limitations
  under the License.
 
-last update: uwe geercken - 2017-03-04
+last update: uwe geercken - 2017-06-05
