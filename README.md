@@ -16,7 +16,7 @@ Reference fields for a project may be defined. As a consequence the user does no
 Please also read the documentation: https://github.com/uwegeercken/rule_maintenance_documentation/blob/master/business_rules_maintenance_web_application.pdf
 
 
-    Copyright (C) 2008-2017  Uwe Geercken
+    Copyright (C) 2008-2018  Uwe Geercken
 
  Licensed to the Apache Software Foundation (ASF) under one
  or more contributor license agreements.  See the NOTICE file
@@ -35,4 +35,4 @@ Please also read the documentation: https://github.com/uwegeercken/rule_maintena
  specific language governing permissions and limitations
  under the License.
 
-last update: uwe geercken - 2017-11-28
+last update: uwe geercken - 2018-06-25
