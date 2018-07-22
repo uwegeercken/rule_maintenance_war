@@ -35,4 +35,5 @@ Please also read the documentation: https://github.com/uwegeercken/rule_maintena
  specific language governing permissions and limitations
  under the License.
 
-last update: uwe geercken - 2018-06-25
+last update: uwe geercken - 2018-07-22
+
