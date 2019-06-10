@@ -3,7 +3,7 @@ rule_maintenance_war
 
 Web Archive file containing all required files to run the the Business Rule Maintenance tool (using e.g. Tomcat)
 
-Compiled with Jave 1.8 and optimized for Apache Tomcat 9.
+Compiled with Java 1.8 and optimized for Apache Tomcat 9.
 
 Make sure you have a MySQL or Mariadb server running. You will need a user and user password which allows to create the database, tables and some initial data.
 
