@@ -3,7 +3,7 @@ rule_maintenance_war
 
 Web Archive file containing all required files to run the the Business Rule Maintenance tool (using e.g. Tomcat)
 
-Compiled with Jave 1.6 and optimized for Apache Tomcat 7.
+Compiled with Jave 1.8 and optimized for Apache Tomcat 9.
 
 Make sure you have a MySQL or Mariadb server running. You will need a user and user password which allows to create the database, tables and some initial data.
 
@@ -16,7 +16,7 @@ Reference fields for a project may be defined. As a consequence the user does no
 Please also read the documentation: https://github.com/uwegeercken/rule_maintenance_documentation/blob/master/business_rules_maintenance_web_application.pdf
 
 
-    Copyright (C) 2008-2018  Uwe Geercken
+    Copyright (C) 2008-2019  Uwe Geercken
 
  Licensed to the Apache Software Foundation (ASF) under one
  or more contributor license agreements.  See the NOTICE file
@@ -35,5 +35,5 @@ Please also read the documentation: https://github.com/uwegeercken/rule_maintena
  specific language governing permissions and limitations
  under the License.
 
-last update: uwe geercken - 2018-07-22
+last update: uwe geercken - 2019-06-10
 
